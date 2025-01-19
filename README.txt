@@ -1,6 +1,5 @@
-При просмотре README на сайте GitHub все содержимое, превышающее 500 КиБ, будет усечено.
-
-Если вы добавите файл README в корневой каталог общедоступного репозитория с тем же именем, 
-что и имя пользователя, файл README будет автоматически отображаться на странице профиля. 
-Можно изменить файл README профиля с помощью GitHub Flavored Markdown, чтобы создать персонализированный раздел профиля. 
-Дополнительные сведения см. в разделе
+#hello-world
+Hello World repository for Git tutorial
+This is an example repository for the Git tutoial on https://www.w3schools.com
+This repository is built step by step in the tutorial.
+It now includes steps for GitHub
